@@ -265,11 +265,17 @@ color: #78baf3;
 	display: none;
 	
 }
+.gdppad {
+	padding-top: 125px;
+}
 .p-pad {
-	padding-bottom: 24px;
+	padding-bottom: 58px;
+}
+.gd-pad {
+	padding-bottom: 6px;
 }
 .south-pad {
-	padding-bottom: 50px;
+	padding-bottom: 24px;
 }
 .east-pad {
 	padding-bottom: 25px;
