@@ -233,8 +233,14 @@ font-weight: 200;
 .fv-social {
 	padding-top: 28px;
 }
+.based-pad {
+	padding-top: 20px;
+}
+.management-pad {
+	padding-top: 20px;
+}
 .post-content b {
-color: #337ab7;
+color: #78baf3;
 }
 .post-content p {
 	font-weight: 200;
